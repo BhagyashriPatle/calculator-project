@@ -1,0 +1,33 @@
+Introduction
+
+This is calculator app developed in python language.
+using math operators , variables, conditional statements, functions and handle user input to make our calculator.
+
+Step 1: Adding operators
+
+Before our program is complete ,we'll add a total of 4 mathematical operators: + for addition,- for subtraction,
+* for multiplication, / for Division. as we added the remaining operators -,*,/,+ into the program above.
+
+Step 2: Adding conditional statements
+
+We are using each of the operators symbols for users to make their choice,
+so if user want any operation like addition to be performed they will type indicated number 1 and symbol '+',
+they will type number form one to four.We could choose whatever symbols we want, though,
+like 1 for addition or 2 for subtraction.Because we are asking users for input ,we want to use the input() function.
+
+Step 3: Users for Input prompt
+
+we shall use python built-in input() function that accepts user generated input from the keyboard.
+inside the parantheses of the input() function we pass the string .
+
+Step 4: Defining functions
+
+The ability perform the program as many times as the user wnats, we'll define some functions.
+we'll name the function calculator() and add an additional layer of indentation within the function itself.
+Next , we want to give the user the choice as to whether they want to calculate or not.but in this case only have
+one if , one elif,and one else conditional statement use.
+
+
+
+
+
